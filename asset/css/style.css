@@ -5,12 +5,19 @@
 }
 
 header {
-    height: 70px;
-    /*border: 3px solid red;*/
+    height: 80px;
     background-image: url(../img/pattern.png);
     background-size: cover;
     background-size: 20%;
     background-color: #4B96ED;
+    position: relative;
+}
+
+#boolean-logo {
+    width: 150px;
+    margin-top: auto;
+    position: absolute;
+    bottom: 10px;
 }
 
 .section-class {
