@@ -10,14 +10,19 @@ header {
     background-size: cover;
     background-size: 20%;
     background-color: #4B96ED;
-    position: relative;
+    /*position: relative;*/
+}
+
+.img-container-header {
+    margin-left: 20px;
 }
 
 #boolean-logo {
     width: 150px;
-    margin-top: auto;
-    position: absolute;
+    margin-top: 30px;
+    /*position: absolute;
     bottom: 10px;
+    left: 20px;*/
 }
 
 .page-container {
