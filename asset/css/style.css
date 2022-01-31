@@ -45,3 +45,18 @@ tr {
 .td-th-class2 {
     width: 50%;
 }
+
+.img-container-monitor, .img-container-graph {
+    width: 312px;
+    height: 208px;
+    background-size: cover;
+    color: white;
+}
+
+.img-container-monitor {
+    background-image: url(../img/monitor.jpg);
+}
+
+.img-container-graph {
+    background-image: url(../img/graph.jpg);
+}
