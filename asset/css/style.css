@@ -6,5 +6,9 @@
 
 header {
     height: 70px;
-    border: 3px solid red;
+    /*border: 3px solid red;*/
+    background-image: url(../img/pattern.png);
+    background-size: cover;
+    background-size: 20%;
+    background-color: #4B96ED;
 }
