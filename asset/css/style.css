@@ -12,3 +12,11 @@ header {
     background-size: 20%;
     background-color: #4B96ED;
 }
+
+.section-class {
+    margin: 30px 0;
+}
+
+.bg-span {
+    background-color: yellow;
+}
