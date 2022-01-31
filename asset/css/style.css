@@ -14,7 +14,8 @@ header {
     background-size: cover;
     background-size: 20%;
     background-color: #4B96ED;
-    /*position: relative;*/
+    display: flex;
+    align-items: center;
 }
 
 .img-container-header {
@@ -23,10 +24,6 @@ header {
 
 #boolean-logo {
     width: 150px;
-    margin-top: 30px;
-    /*position: absolute;
-    bottom: 10px;
-    left: 20px;*/
 }
 
 .page-container {
